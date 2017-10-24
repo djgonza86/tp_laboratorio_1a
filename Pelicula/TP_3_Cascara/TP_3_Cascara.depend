@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1508451468 source:c:\users\alumno\downloads\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508451452 c:\users\alumno\downloads\tp_3_cascara\funciones.h
+
+1508451473 source:c:\users\alumno\downloads\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508451473 source:c:\users\alumno\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508453401 c:\users\alumno\desktop\tp_3_cascara\funciones.h
+
+1508811114 source:c:\users\gonza\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validar.h"
+
+1508812074 c:\users\gonza\desktop\tp_3_cascara\funciones.h
+
+1508811594 c:\users\gonza\desktop\tp_3_cascara\validar.h
+
+1508811630 source:c:\users\gonza\desktop\tp_3_cascara\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1508812852 source:c:\users\gonza\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"funciones.h"
+	"validar.h"
+
